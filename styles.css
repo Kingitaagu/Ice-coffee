@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+
+body {
+  color: white;
+}
+h1 {
+  font-size: 20px;
+}
+p {
+  font-size: 12px;
+}
+p {
+  color: green;
+}
+
+.mydiv {
+  border-style: dotted;
+  border-width: 2px;
+}
+.mydiv {
+  width: 100px;
+  height: 100px;
+}
+.mydiv {
+  font-size: 12px;
+}
